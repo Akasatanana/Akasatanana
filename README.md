@@ -6,4 +6,4 @@
 - 東北大学大学院生
 - グラフアルゴリズムについて研究
 
-## [時間割&GPA](/GradeandTimeTable)
+## [時間割&GPA](https://github.com/Akasatanana/GradeandTimeTable)
