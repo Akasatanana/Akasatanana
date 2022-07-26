@@ -8,14 +8,14 @@
 
 自分が製作したものをまとめていきます．
 
-## [時間割&GPA](https://github.com/Akasatanana/GradeandTimeTable)
-- 2022/05~2022/07
-- 時間割にGPA計算機能のついたアプリ．
-- [AppStoreで公開中！](https://apps.apple.com/jp/app/%E6%99%82%E9%96%93%E5%89%B2-gpa%E8%A8%88%E7%AE%97/id1633208820)
-
 ## [スマブラ投票権!!](https://github.com/Akasatanana/SSBU_characterVoting)
 - 2022/07~
 - スマブラのキャラ投票サイト．
 - ネーミングセンスはいいと思う．
 - 初のWeb製作に苦戦中，，，
 - [ __「一応」__ 公開中 && 追加機能鋭意制作中．](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
+
+## [時間割&GPA](https://github.com/Akasatanana/GradeandTimeTable)
+- 2022/05~2022/07
+- 時間割にGPA計算機能のついたアプリ．
+- [AppStoreで公開中！](https://apps.apple.com/jp/app/%E6%99%82%E9%96%93%E5%89%B2-gpa%E8%A8%88%E7%AE%97/id1633208820)
