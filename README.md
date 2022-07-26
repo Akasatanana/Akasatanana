@@ -16,4 +16,5 @@
 ## [スマブラ投票権!!](https://github.com/Akasatanana/SSBU_characterVoting)
 - 2022/07~
 - スマブラのキャラ投票サイト．
-- [公開中 && 追加機能制作中](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
+- 初のWeb製作に苦戦中，，，
+- [公開中 && 追加機能鋭意制作中．](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
