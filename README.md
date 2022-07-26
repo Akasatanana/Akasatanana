@@ -17,4 +17,4 @@
 - 2022/07~
 - スマブラのキャラ投票サイト．
 - 初のWeb製作に苦戦中，，，
-- [**「一応」**公開中 && 追加機能鋭意制作中．](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
+- [ __「一応」__ 公開中 && 追加機能鋭意制作中．](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
