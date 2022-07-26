@@ -13,7 +13,7 @@
 - 時間割にGPA計算機能のついたアプリ．
 - [AppStoreで公開中！](https://apps.apple.com/jp/app/%E6%99%82%E9%96%93%E5%89%B2-gpa%E8%A8%88%E7%AE%97/id1633208820)
 
-## [スマブラ投票権!!](git@github.com:Akasatanana/SSBU_characterVoting)
+## [スマブラ投票権!!](https://github.com/Akasatanana/SSBU_characterVoting)
 - 2022/07~
 - スマブラのキャラ投票サイト．
 - [公開中 && 追加機能制作中](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
