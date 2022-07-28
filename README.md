@@ -12,7 +12,7 @@
 - 2022/07~
 - スマブラのキャラ投票サイト．
 - ネーミングセンスはいいと思う．
-- 初のWeb製作に苦戦中，，，
+- レスポンシブデザインの勉強中
 - [ __「一応」__ 公開中 && 追加機能鋭意制作中．](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
 
 ## [時間割&GPA](https://github.com/Akasatanana/GradeandTimeTable)
