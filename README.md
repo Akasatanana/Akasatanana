@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akasatanana&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # 簡単な自己紹介
 - 東北大学大学院生
 - グラフアルゴリズムについて研究
