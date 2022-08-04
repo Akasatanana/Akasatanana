@@ -11,11 +11,11 @@
 自分が製作したものをまとめていきます．
 
 ## [スマブラ投票権!!](https://github.com/Akasatanana/SSBU_characterVoting)
-- 2022/07~
+- 2022/07
 - スマブラのキャラ投票サイト．
 - ネーミングセンスはいいと思う．
 - レスポンシブデザインの勉強中
-- [ __「一応」__ 公開中 && 追加機能鋭意制作中．](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
+- [公開中](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
 
 ## [時間割&GPA](https://github.com/Akasatanana/GradeandTimeTable)
 - 2022/05~2022/07
