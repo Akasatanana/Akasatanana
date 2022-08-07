@@ -10,13 +10,13 @@
 
 自分が製作したものをまとめていきます．
 
-## [楽天おみくじ](git@github.com:Akasatanana/rakutenLottery.git)
-- 2022/08
+## [楽天おみくじ](https://github.com/Akasatanana/rakutenLottery.git)
+- 2022/08/06~2022/08/07
 - 検索ワードから楽天の商品をランダムに表示するアプリ．
 - [公開中](http://ssbu-charavoting.sakura.ne.jp/rakutenLottery/html/lottery.php)
 
 ## [スマブラ投票権!!](https://github.com/Akasatanana/SSBU_characterVoting)
-- 2022/07
+- 2022/07~2022/07
 - スマブラのキャラ投票サイト．
 - ネーミングセンスはいいと思う．
 - [公開中](https://ssbu-charavoting.sakura.ne.jp/SSBU_characterVoting/login.php)
