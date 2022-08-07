@@ -10,7 +10,7 @@
 
 自分が製作したものをまとめていきます．
 
-##[楽天おみくじ](git@github.com:Akasatanana/rakutenLottery.git)
+## [楽天おみくじ](git@github.com:Akasatanana/rakutenLottery.git)
 - 2022/08
 - 検索ワードから楽天の商品をランダムに表示するアプリ．
 - [公開中](http://ssbu-charavoting.sakura.ne.jp/rakutenLottery/html/lottery.php)
