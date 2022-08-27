@@ -10,6 +10,7 @@
 
 自分が製作したものをまとめていきます．
 ## いい生活のサマーインターンに参加
+- 2022/08/22~2022/08/26
 - Vue, Typescriptを使って開発．
 
 ## [楽天おみくじ](https://github.com/Akasatanana/rakutenLottery.git)
